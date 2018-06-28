@@ -45,11 +45,6 @@ max[1,1] = maximum demand for resource 1 by process 1
 max[n,m] = maximum demand for resource m by process nprocess_1:
 deadline_1
 /*
-
-
-
-
-
 computation_time_1 /*
 :
 /*
