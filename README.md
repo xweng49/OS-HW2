@@ -121,4 +121,3 @@ again broken in favor of the process with the shortest remaining execution time 
 before making another one, that is, another process with the least laxity is chosen for service.
 Which scheduling technique yields fewer deadline misses, or they both meet the same number of
 deadlines?
-3
